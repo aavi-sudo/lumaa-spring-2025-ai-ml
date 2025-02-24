@@ -10,7 +10,7 @@ The dataset, **MOVIESS.csv**, contains **movie titles and their descriptions**.
 - `description` → A brief summary of the movie  
 
 You can download the dataset here:  
-📥 **[MOVIESS.csv](sandbox:/mnt/data/MOVIESS.csv)**  
+📥 **[MOVIESS.csv](https://drive.google.com/file/d/1dIu7_BqfDGv5BCejTpUTAf3_w4XR4TzI/view?usp=drive_link)**  
 
 If using a different dataset, ensure it has the same columns.
 
